@@ -3,7 +3,7 @@ console.log("app.js loaded");
 document.addEventListener('DOMContentLoaded', function() {
     console.log("DOM ready, initializing app...");
 
-    // --- Report Crime Dropdown Toggle ---
+    // -- Report Crime Dropdown Toggle --
     const reportCrimeBox = document.getElementById('reportCrimeBox');
     const reportCrimeDropdown = document.getElementById('reportCrimeDropdown');
 
