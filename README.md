@@ -25,7 +25,7 @@ saferoute-app/
 
 │ └── app.js
 
-└── package.json (will be created next)
+└── package.json (will be created automatically)
 
 Install Dependencies Open terminal/command prompt in the project folder and run: npm init -y and then enter: npm install express axios cors
 
